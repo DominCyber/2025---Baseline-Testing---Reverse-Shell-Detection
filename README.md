@@ -11,10 +11,22 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>-The Windows Server 2019 has been configured to have its firewall and real-time antivirus turned off to allow for malware proof-of-concept deployment.</p>
 <p>-Wireshark is used on the Windows 10 machine is used to monitor the Eth0 virtual adapter for traffic to and from the attacking and targeting virtual machines.</p>
 
-### Tools Used
--Laptop
-<p>-Linux CLI-enabled TCPDump packer analyzer</p>
-<p>-Coursera Google Cybersecurity Professional Certification</p>
+### Tools/Applications Used
+<p>-VMware hypervisor</p>
+<p>--Virtual Machine OS</p>
+<p>---Kali Linux</p>
+<p>----Nmap CLI</p>
+<p>----Metasploit CLI</p>
+<p>----Python3 script</p>
+<p>---Windows Server 2019</p>
+<p>---Windows 10</p>
+<p>----Wireshark</p>
+<p>----Windows CLI</p>
+
+
+
+
+
 
 ### Steps
 <img src="https://i.imgur.com/jMzVO1j.png" style="width: 100%;" alt="1">
