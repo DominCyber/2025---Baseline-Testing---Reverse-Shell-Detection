@@ -1,9 +1,9 @@
-2025 - Baseline Testing - Reverse Shell Detection
+# 2025 - Baseline Testing - Reverse Shell Detection
 
-Summary
+## Summary
 This reverse shell detection exercise is a baseline test to test fundamental cybersecurity concepts/skills as well as system and network operability.
 
-Considerations
+### Considerations
 -I DO NOT CONDONE THE USE OF OFFENSIVE MEANS OR TOOLS OUTSIDE OF A TESTING ENVIRONMENT
 
 -Overall, this baseline test is meant to be a standard for an ever refined test environment to practice concepts, familiarize various red and blue team tool usage, and apply GRC and other cybersecurity administrative concepts.
@@ -18,7 +18,7 @@ Considerations
 
 -Wireshark is used on the Windows 10 machine is used to monitor the Eth0 virtual adapter for traffic to and from the attacking and targeting virtual machines.
 
-Tools/Applications Used
+### Tools/Applications Used
 -VMware hypervisor
 -network architecture construction
 
@@ -32,7 +32,7 @@ Tools/Applications Used
 ----Wireshark
 ----Windows CLI
 
-Concepts/Skills demonstrated 
+### Concepts/Skills demonstrated 
 -Concepts
 -Networking architecture, ports, and protocols
 -system operability
