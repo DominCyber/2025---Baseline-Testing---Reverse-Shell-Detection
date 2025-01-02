@@ -12,16 +12,16 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>-Wireshark is used on the Windows 10 machine is used to monitor the Eth0 virtual adapter for traffic to and from the attacking and targeting virtual machines.</p>
 
 ### Tools/Applications Used
-#### VMware hypervisor
--Virtual Machine OS
-<p>--Kali Linux</p>
-<p>---Nmap CLI</p>
-<p>---Metasploit CLI</p>
-<p>---Python3 script</p>
-<p>--Windows Server 2019</p>
-<p>--Windows 10</p>
-<p>---Wireshark</p>
-<p>---Windows CLI</p>
+#### VMware hypervisor on a Lenovo Thinkbook 16 G6
+##### Virtual Machine OS
+<p>-Kali Linux</p>
+<p>--Nmap CLI</p>
+<p>--Metasploit CLI</p>
+<p>--Python3 script</p>
+<p>-Windows Server 2019</p>
+<p>-Windows 10</p>
+<p>--Wireshark</p>
+<p>--Windows CLI</p>
 
 ### Concepts/Skills demonstrated 
 #### Concepts
