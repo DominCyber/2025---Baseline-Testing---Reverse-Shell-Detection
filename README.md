@@ -1,4 +1,4 @@
-# 2025 - Baseline Testing - Reverse Shell Detection
+# 2025 - Baseline Testing - Reverse Shell Detection (Ongoing)
 ## Summary
 This reverse shell detection exercise is a baseline test to test fundamental cybersecurity concepts/skills as well as system and network operability.
 
