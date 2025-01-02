@@ -50,11 +50,11 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p><i>Ref 1: Testing connectivity between virtual machines</i></p>
 <img src="https://i.imgur.com/n5KHrVM.png" style="width: 200%;" alt="1">
 <p><i>Ref 2: Log Aggregation - Wireshark recordings</i></p>
-<img src="https://i.imgur.com/rwtrdeZ.png" style="width: 100%;" alt="1">
+<img src="https://i.imgur.com/rwtrdeZ.png" style="width: 75%;" alt="1">
 <p><i>Ref 3: Reconnaissance - enumerating target VM's ports</i></p>
 <img src="https://i.imgur.com/zzPxg0o.png" style="width: 100%;" alt="1">
 <p><i>Ref 4: Log Aggregation - Wireshark recordings</i></p>
-<img src="https://i.imgur.com/XqWwOjs.png" style="width: 100%;" alt="1">
+<img src="https://i.imgur.com/XqWwOjs.png" style="width: 75%;" alt="1">
 <p><i>Ref 5: Weaponization - Metasploit payload</i></p>
 <img src="https://i.imgur.com/hXt7M0X.png" style="width: 100%;" alt="1">
 <p><i>Ref 6: Weaponization - Metasploit console configuration</i></p>
