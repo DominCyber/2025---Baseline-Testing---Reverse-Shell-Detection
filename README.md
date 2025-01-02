@@ -18,7 +18,7 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>-Kali Linux</p>
 <p>--Nmap CLI</p>
 <p>--Metasploit CLI</p>
-<p>--Python3 script (for reverse HTTP handling)</p>
+<p>--Python3 script (for HTTP listening session)</p>
 <p>-Windows Server 2019</p>
 <p>-Windows 10</p>
 <p>--Wireshark</p>
