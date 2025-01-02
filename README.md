@@ -9,7 +9,7 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>-This test has inspiration and is an adaptation of the exercise explored in: MyDFIR - Cybersecurity Tip: Build A Basic Home Lab (3/3) - https://www.youtube.com/watch?v=-8X7Ay4YCoA</p>
 <p>-The entire test is conducted within a closed VMware hypervisor environment, with three virtual machines; an attacker Kali Linux, a target Windows Server 2019, and a monitoring Windows 10.</p>
 <p>-The Windows Server 2019 has been configured to have its firewall and real-time antivirus turned off to allow for malware proof-of-concept deployment.</p>
-<p>-It is assumed that a would-be attacker has applied various techniques to cause a user to open the remote executable, allowing for reverse shell execution.</p>
+<p>-It is assumed that a would-be attacker has applied various techniques to cause a user to open the remote executable, allowing for reverse shell execution. Additionally, it's assumed there has been no log tampering.</p>
 <p>-Wireshark is used on the Windows 10 machine is used to monitor the Eth0 virtual adapter for traffic to and from the attacking and targeting virtual machines.</p>
 
 ### Tools/Applications Used
