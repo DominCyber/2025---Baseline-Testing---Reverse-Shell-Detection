@@ -46,7 +46,7 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>-Delivery - via web application</p>
 
 ### Timeline
-<img src="https://i.imgur.com/gAoZtoF.png" style="width: 75%;" alt="1">
+<img src="https://i.imgur.com/gAoZtoF.png" style="width: 50%;" alt="1">
 <p><i>Ref 1: Testing connectivity between virtual machines</i></p>
 <img src="https://i.imgur.com/n5KHrVM.png" style="width: 200%;" alt="1">
 <p><i>Ref 2: Log Aggregation - Wireshark recordings</i></p>
