@@ -23,18 +23,57 @@ This reverse shell detection exercise is a baseline test to test fundamental cyb
 <p>----Wireshark</p>
 <p>----Windows CLI</p>
 
+### Concepts/Skills demonstrated 
+#### Concepts
+<p>-Networking architecture, ports, and protocols</p>
+<p>-System operability</p>
+<p>-Log aggregation</p>
+<p>-Cyber kill chain procedures</p>
+<p>--Reconnaissance</p>
+<p>--Weaponization</p>
+<p>--Delivery</p>
 
+#### Skills
+##### Blue Team
+<p>-Log Aggregation - Wireshark recordings</p>
+<p>-Log Aggregation - Windows CLI - Process ID for network activity</p>
+<p>-Log Aggregation - Task Manager - Process ID for network activity</p>
 
+##### Blue Team
+<p>-Reconnaissance - enumerating target VM's ports</p>
+<p>-Weaponization - Metasploit payload</p>
+<p>-Weaponization - Metasploit console configuration</p>
+<p>-Delivery - via web application</p>
 
+### Tools/Applications Used
+<p>-VMware hypervisor</p>
+<p>--Virtual Machine OS</p>
+<p>---Kali Linux</p>
+<p>----Nmap CLI</p>
+<p>----Metasploit CLI</p>
+<p>----Python3 script</p>
+<p>---Windows Server 2019</p>
+<p>---Windows 10</p>
+<p>----Wireshark</p>
+<p>----Windows CLI</p>
 
-
-### Steps
-<img src="https://i.imgur.com/jMzVO1j.png" style="width: 100%;" alt="1">
-<p><i>Ref 1: Discovering interfaces to conduct packet capture</i></p>
-<img src="https://i.imgur.com/odnHQjg.png" style="width: 200%;" alt="1">
-<p><i>Ref 2: Interface, port, number of captures, and export file designated, while script is prompted to run in the background and not resolving names, simlariy website opening and export .pcap information is displayed </i></p>
-<img src="https://i.imgur.com/UJcMTKy.png" style="width: 100%;" alt="1">
-<p><i>Ref 3: Export file read with verbose option</i></p>
+### Timeline
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 1: Testing connectivity between virtual machines</i></p>
+<img src=" " style="width: 200%;" alt="1">
+<p><i>Ref 2: Log Aggregation - Wireshark recordings</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 3: Reconnaissance - enumerating target VM's ports</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 4: Log Aggregation - Wireshark recordings</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 5: Weaponization - Metasploit payload</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 6: Weaponization - Metasploit console configuration</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 7: Delivery - via web application</i></p>
+<img src=" " style="width: 100%;" alt="1">
+<p><i>Ref 8: Log Aggregation Wireshark - Windows CLI - Task Manager - Process ID for network activity</i></p>
 <p><b>Significant takeaways for the packet header information:</b></p>
 
 <html lang="en">
